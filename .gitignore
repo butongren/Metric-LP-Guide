@@ -1,0 +1,21 @@
+# Runtime files and personal exports
+data/
+backups/
+__pycache__/
+*.py[cod]
+*.log
+*.csv
+.env
+.env.*
+*.pem
+*.key
+*.keystore
+*.zip
+*方案*.json
+*备份*.json
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
